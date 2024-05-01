@@ -3,9 +3,12 @@
 1. Education:
 2. interest: Web front Develop, Data Analysis, AI engineering
 3. Skils: Next.js, React Framework, TypeScript, Javasript, css, html, python, pandas
-4. Award:
-5. license:
-6. Project
+
+4. Career:
+   - 2024.01 ~ 2024.06 Codeit 프론트엔드 엔지니어 4기 
+6. Award:
+7. license:
+8. Project
 
 |Date|Project|Description|URL|
 |----|-------------------------|-------------|-----|
