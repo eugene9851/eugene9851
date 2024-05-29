@@ -5,12 +5,11 @@
 Web front Develop, Data Analysis, AI engineering
 ### 3. Skils: 
 Next.js, React Framework, TypeScript, Javasript, css, html, python, pandas
-
-4. Career:
+### 4. Career:
    - 2024.01 ~ 2024.06 Codeit 프론트엔드 엔지니어 4기 
-6. Award:
-7. license:
-8. Project:
+### 6. Award:
+### 7. license: 
+### 8. Project:
    
 |Date|Project|Description|URL|
 |----|-------------------------|-------------|-----|
@@ -18,8 +17,7 @@ Next.js, React Framework, TypeScript, Javasript, css, html, python, pandas
 |2024.03|롤링페이퍼 사이트|React Project|[깃허브 링크](https://github.com/eugene9851/RollingProject)|
 |진행중|진행중|진행중|진행중|
 
-9. Expereience:
-    
+### 9. Expereience:
 |Date|Study|URL|
 |----|-------------|-----|
 |2024.01~|Algorithm|[깃허브 링크](https://github.com/eugene9851/algorithm)|
