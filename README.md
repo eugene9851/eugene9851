@@ -21,4 +21,3 @@ Next.js, React Framework, TypeScript, Javasript, css, html, python, pandas
 |----|-------------|-----|
 |2024.01~|Algorithm|[깃허브 링크](https://github.com/eugene9851/algorithm)|
 |2024.04~05|Machine Learning - Advanced|[깃허브 링크](https://github.com/eugene9851/MachineLearning_Study)|
-|2024.06~|Deep Learning - Advanced|[깃허브 링크](https://github.com/eugene9851/MachineLearning_Study)|
